@@ -1,0 +1,32 @@
+{
+  "name": "ng1seedproject",
+  "description": "",
+  "authors": [
+    "Richard Sentino <richard@mingdinative.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-sanitize": "^1.5.5",
+    "angular-animate": "^1.5.5",
+    "angular-touch": "^1.5.5",
+    "bootstrap-sass": "^3.3.6",
+    "angular": "^1.5.5",
+    "lodash": "^4.13.1",
+    "q": "^2.0.2"
+  }
+}
